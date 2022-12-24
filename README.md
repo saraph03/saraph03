@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saraph03
-- 👀 I’m interested in gaming
+- 👀 I’m interested in art, languages, and games 
 - 🌱 I’m currently learning Data Structures, Java
 - 💞️ I’m looking to collaborate on anything tech related
 - 📫 How to reach me @saraph03
