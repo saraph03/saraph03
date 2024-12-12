@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saraph03
 - 👀 I’m interested in art, languages, and games 
-- 🌱 I’m currently learning Python for Everybody Specialization through Coursera 
-- 💞️ I’m looking to collaborate on anything tech related
+- 🌱 I’m currently doing a Machine Learning and AI program through Cornell Tech
+- 💞️ I’m looking to collaborate on anything computer vision related or tech in general
 - 📫 How to reach me saraph03@gmail.com
 
 <!---
