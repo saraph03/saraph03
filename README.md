@@ -2,7 +2,7 @@
 - 👀 I’m interested in art, languages, and games 
 - 🌱 I’m currently learning Python for Everybody Specialization through Coursera 
 - 💞️ I’m looking to collaborate on anything tech related
-- 📫 How to reach me @saraph03
+- 📫 How to reach me saraph03@gmail.com
 
 <!---
 saraph03/saraph03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
