@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saraph03
 - 👀 I’m interested in art, languages, and games 
-- 🌱 I’m currently doing a Machine Learning and AI program through Cornell Tech
+- 🌱 I’m currently a master's student at Northeastern University studying Robotics
 - 💞️ I’m looking to collaborate on anything computer vision related or tech in general
 - 📫 How to reach me saraph03@gmail.com
 
